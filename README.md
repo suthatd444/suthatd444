@@ -3,8 +3,11 @@
 
 
 
-I am working since 2018 as a software engineer.
-I am currently working at GeekPeek Software & Technology.
+I've been immersed in the world of software engineering since 2018, 
+harnessing a wealth of expertise spanning over five years in PHP and the MERN stack. 
+Over the past two years, I've proudly steered the ship of my own agency, GeekPeek Software & Technology. 
+This journey has not only honed my technical skills but
+also empowered me to lead and innovate in the ever-evolving landscape of technology.
 
 
 <h3 align="left">Connect with me:</h3>
