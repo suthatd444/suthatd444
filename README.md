@@ -1,10 +1,4 @@
-<style>
-#user-content-techstack {
-background:#fff;
-  border-radius:5px;
-  padding:5px;
-}
-</style>
+
 <h1 align="center">Hi 👋, I'm Deepak suthar</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
 
