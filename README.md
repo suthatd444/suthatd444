@@ -15,7 +15,7 @@ also empowered me to lead and innovate in the ever-evolving landscape of technol
 <img align="center" src="https://img.icons8.com/material-outlined/256/mail-account.png" alt="suthard444@gmail.com" height="30" width="30" />
 <b>suthard444@gmail.com</b>
   </p>
-<p align="left">
+<p align="left" style="background:'#fff';border-radius:'5px';padding:'5px';">
 <a href="https://linkedin.com/in/geekpeek-deepak-suthar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="geekpeek-deepak-suthar" height="30" width="40" /></a>
 <a href="https://instagram.com/geekpeek.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geekpeek.in" height="30" width="40" /></a>
 </p>
