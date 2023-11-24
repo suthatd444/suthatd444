@@ -1,5 +1,5 @@
 <style>
-#techstack {
+#user-content-techstack {
 background:#fff;
   border-radius:5px;
   padding:5px;
